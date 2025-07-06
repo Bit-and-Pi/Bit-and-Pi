@@ -25,12 +25,3 @@ Each project or tutorial is organized in its own folder with clear instructions 
 - Python for Beginners
 
 ---
-
-## 🛠️ Getting Started
-
-To get started with a project:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/BitAndPi/bit-and-pi.git
-   ```
