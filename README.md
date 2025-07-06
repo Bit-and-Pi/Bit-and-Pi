@@ -22,6 +22,6 @@ Each project or tutorial is organized in its own folder with clear instructions 
 ---
 
 ## 📺 Featured Playlists & Topics
-- Python for Beginners
+- [Python for Beginners](https://github.com/Bit-and-Pi/Python-for-Beginners)
 
 ---
